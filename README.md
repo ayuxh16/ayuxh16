@@ -1,5 +1,4 @@
-
-## 🚀 About Me<br>Hi, I’m **Ayush Singh**, a Software Developer and B.Tech student at **IIIT Manipur**.  <br>I enjoy building full-stack applications, solving DSA problems, and turning ideas into real-world projects.<br><br>- 🎓 Currently studying at IIIT Manipur<br>- 💻 Interested in Software Development and System Design<br>- 🌱 Learning Backend Development and scalable architectures<br>- 🧠 Regularly practicing Data Structures and Algorithms<br>- ⚡ I like building practical, real-world projects<br>
+<br>Hi, I’m **Ayush Singh**, a Software Developer and B.Tech student at **IIIT Manipur**.  <br>I enjoy building full-stack applications, solving DSA problems, and turning ideas into real-world projects.<br><br>- 🎓 Currently studying at IIIT Manipur<br>- 💻 Interested in Software Development and System Design<br>- 🌱 Learning Backend Development and scalable architectures<br>- 🧠 Regularly practicing Data Structures and Algorithms<br>- ⚡ I like building practical, real-world projects<br>
 
 
 ## 🌐 Socials:
